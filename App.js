@@ -4,7 +4,10 @@ import { Text } from 'react-native'
 
 const App = props => {
   return (
-    <Text>gggggggggggg</Text>
+    <>    <Text>gggggggggggg</Text>
+      <Text>lllllllllll</Text>
+    </>
+
   );
 };
 
